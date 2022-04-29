@@ -7,5 +7,5 @@
 
 
 
-model_3.pkl link: https://drive.google.com/file/d/1FA6SLrZzo5W1c7cljY_kE3po2MEJ1i1V/view?usp=sharing
-Please add model_3.pkl in project folder
+pickle file links: https://drive.google.com/drive/folders/1Gz3jW0vsSot8j1TvcJdn8tclxnDgZsny?usp=sharing
+Please add model_3.pkl & model_best.pkl in project folder
