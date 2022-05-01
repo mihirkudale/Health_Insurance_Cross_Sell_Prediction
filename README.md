@@ -7,5 +7,8 @@
 
 
 
-pickle file links: https://drive.google.com/drive/folders/1Gz3jW0vsSot8j1TvcJdn8tclxnDgZsny?usp=sharing
+- pickle file links: https://drive.google.com/drive/folders/1Gz3jW0vsSot8j1TvcJdn8tclxnDgZsny?usp=sharing
 Please add model_3.pkl & model_best.pkl in project folder
+
+
+- Heroku app: https://cross-sell-predictor-insurance.herokuapp.com/
