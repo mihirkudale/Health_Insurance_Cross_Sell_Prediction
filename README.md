@@ -11,4 +11,4 @@
 Please add model_3.pkl & model_best.pkl in project folder
 
 
-- Heroku app: https://cross-sell-predictor-insurance.herokuapp.com/
+
